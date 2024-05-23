@@ -1,2 +1,2 @@
 # Calculator-project
-This is a simple calculator project. by using Java language.
+This is a simple calculator project.<b>by using Java language.
